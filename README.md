@@ -9,18 +9,18 @@ An intelligent AI agent that monitors your Gmail inbox, summarizes your unread e
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
--   **🔍 Smart Monitoring:** Periodically checks your Gmail for new, unread messages.
--   **🧠 AI-Powered Summarization:** Uses Google's Gemini AI to distill long emails into actionable WhatsApp-friendly digests.
--   **📱 Instant WhatsApp Delivery:** Sends summaries via Twilio's WhatsApp API.
--   **📅 Intelligent Scheduling:** Runs automatically in the background at configurable intervals.
--   **🛠️ CLI Flexibility:** Manual triggers, force-checks, and silent modes available.
--   **🎨 Beautiful Console UI:** Rich, color-coded terminal output for easy debugging and status tracking.
+-   ** Smart Monitoring:** Periodically checks your Gmail for new, unread messages.
+-   ** AI-Powered Summarization:** Uses Google's Gemini AI to distill long emails into actionable WhatsApp-friendly digests.
+-   ** Instant WhatsApp Delivery:** Sends summaries via Twilio's WhatsApp API.
+-   ** Intelligent Scheduling:** Runs automatically in the background at configurable intervals.
+-   ** CLI Flexibility:** Manual triggers, force-checks, and silent modes available.
+-   ** Beautiful Console UI:** Rich, color-coded terminal output for easy debugging and status tracking.
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### 1. Prerequisites
 -   Python 3.8+
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🛠️ Usage
+## Usage
 
 ### Standard Background Mode
 Runs the agent in the background, checking for emails every X minutes (as defined in `.env`).
@@ -81,7 +81,7 @@ python main.py --force
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 -   **`gmail_client.py`**: Handles OAuth2 authentication and Gmail API interactions.
 -   **`summarizer.py`**: The AI engine using Gemini to process email content.
@@ -91,7 +91,7 @@ python main.py --force
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
@@ -101,4 +101,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<p align="center">Made with ❤️ for productivity</p>
