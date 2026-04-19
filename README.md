@@ -11,12 +11,12 @@ An intelligent AI agent that monitors your Gmail inbox, summarizes your unread e
 
 ##  Key Features
 
--   ** Smart Monitoring:** Periodically checks your Gmail for new, unread messages.
--   ** AI-Powered Summarization:** Uses Google's Gemini AI to distill long emails into actionable WhatsApp-friendly digests.
--   ** Instant WhatsApp Delivery:** Sends summaries via Twilio's WhatsApp API.
--   ** Intelligent Scheduling:** Runs automatically in the background at configurable intervals.
--   ** CLI Flexibility:** Manual triggers, force-checks, and silent modes available.
--   ** Beautiful Console UI:** Rich, color-coded terminal output for easy debugging and status tracking.
+-   **Smart Monitoring:** Periodically checks your Gmail for new, unread messages.
+-   **AI-Powered Summarization:** Uses Google's Gemini AI to distill long emails into actionable WhatsApp-friendly digests.
+-   **Instant WhatsApp Delivery:** Sends summaries via Twilio's WhatsApp API.
+-   **Intelligent Scheduling:** Runs automatically in the background at configurable intervals.
+-   **CLI Flexibility:** Manual triggers, force-checks, and silent modes available.
+-   **Beautiful Console UI:** Rich, color-coded terminal output for easy debugging and status tracking.
 
 ---
 
