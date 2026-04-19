@@ -1,0 +1,24 @@
+# Gmail API
+google-auth>=2.29.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.127.0
+
+# AI Summarization
+google-generativeai>=0.5.0
+
+# WhatsApp via Twilio
+twilio>=9.0.0
+
+# Environment & Config
+python-dotenv>=1.0.0
+
+# Scheduling
+apscheduler>=3.10.0
+
+# Email parsing
+beautifulsoup4>=4.12.0
+lxml>=5.1.0
+
+# Beautiful console output
+rich>=13.7.0
