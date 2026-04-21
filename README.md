@@ -93,4 +93,4 @@ python main.py --force
 
 ##  Output
 
-[Result in Terminal](AI Agent Output.png)
+![Result in Terminal](AI Agent Output.png)
