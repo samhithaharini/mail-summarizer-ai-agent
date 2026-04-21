@@ -91,13 +91,6 @@ python main.py --force
 
 ---
 
-##  Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+##  Output
 
----
-
-##  License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
+[Result in Terminal](AI Agent Output.png)
